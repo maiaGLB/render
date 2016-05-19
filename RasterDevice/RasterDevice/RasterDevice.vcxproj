@@ -154,12 +154,20 @@
     <ClCompile Include="ScreenConsole.cpp" />
     <ClCompile Include="ScreenGraphic.cpp" />
     <ClCompile Include="SettingsViewPort.cpp" />
+    <ClCompile Include="SVector2D.cpp" />
+    <ClCompile Include="SVector2Df.cpp" />
+    <ClCompile Include="SVector3Df.cpp" />
+    <ClCompile Include="SVector4Df.cpp" />
     <ClCompile Include="Utils.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Application.h" />
+    <ClInclude Include="Buffer.h" />
     <ClInclude Include="Camera.h" />
+    <ClInclude Include="Color.h" />
     <ClInclude Include="Cursor.h" />
+    <ClInclude Include="Image.h" />
+    <ClInclude Include="RenderDevice.h" />
     <ClInclude Include="Screen.h" />
     <ClInclude Include="ScreenConsole.h" />
     <ClInclude Include="ScreenGraphic.h" />

@@ -67,3 +67,4 @@
 /RenderGeo/Render/RCore/*.ini
 /RenderGeo/Render/*.db
 /RenderGeo/Render/RScreen/Debug
+/RasterDevice/*.opendb
